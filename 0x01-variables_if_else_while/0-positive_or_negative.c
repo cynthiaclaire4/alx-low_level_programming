@@ -7,7 +7,7 @@
  * and if the number is positive, negative or zero
  * return 0
  */
-int main(void)
+int main(0)
 {
 	int n;
 
