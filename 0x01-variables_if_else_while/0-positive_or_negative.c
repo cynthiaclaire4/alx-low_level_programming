@@ -4,9 +4,8 @@
 /**
  * main - main block
  * Description: Get a random number and print the number
- * and if the number is positive, negative or zero
- * return: 0
- * betty style document for function main goes here
+ * and if it is positive, negative, or zero
+ *  Return: 0
  */
 int main(void)
 {
@@ -23,5 +22,4 @@ int main(void)
 		printf("%i is zero\n", n);
 
 	return (0);
-
 }
