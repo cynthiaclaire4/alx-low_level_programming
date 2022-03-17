@@ -1,17 +1,15 @@
 #include "main.h"
-#include <stdio.h>
-#include <time.h>
+
 /**
- * main - main block
- * Description: Get a random number and print the number
- * and if it is positive, negative, or zero
+ * main - tests function that prints if the integer is positive or negative
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
 
-	i = 98;
+	i = 0;
 	positive_or_negative(i);
 
 	return (0);
